@@ -21,8 +21,3 @@ The output is an 8 element vector of the following format :
 [None, None, None, None, None, None, None, <event>]
 6. Use 80 % of the dataset for training and 20 % of the dataset for testing. 
 7. Calculate accuracy (no of correct predictions / no of test samples) and report it.
-
-Deliverables :
-
-Post the code on Google groups by 12:45 pm, 19th Mar 2016.
-Report the accuracy and observations of the RNN on a Facebook post by 9 pm, 20th Mar 2016.
